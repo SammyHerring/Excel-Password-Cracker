@@ -6,3 +6,5 @@ Getting Started:
 2. In the table module IDE copy and paste the 'PasswordBreaker.vba' script.
 3. Run Module
 4. Should give a successful password cracking.
+
+Enjoy!
