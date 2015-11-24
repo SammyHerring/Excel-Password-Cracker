@@ -1,10 +1,10 @@
-# Excell_Cracker
-Excell VBA based Password Cracker.
+# Excel_Cracker
+Microsoft Office Excel VBA based Password Cracker.
 ---
 Getting Started:
 Click Alt-F11
 In the table module IDE copy and paste the 'PasswordBreaker.vba' script.
 Run Module
-Should give a successful password cracking.
+Upon completion, the password should have been cracked.
 
 Enjoy!
